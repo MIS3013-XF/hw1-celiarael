@@ -1,7 +1,7 @@
 ﻿// HW1b Grade
 
 // Your Name:Celia
-// Did you seek help ? If yes, specify the helper or web link here: 
+// Did you seek help ? If yes, specify the helper or web link here: Pooja Kumansi and other TAs at office hours
 
 using System;
 using System.Collections.Generic;

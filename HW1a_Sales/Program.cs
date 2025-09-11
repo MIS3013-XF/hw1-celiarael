@@ -1,7 +1,7 @@
 ﻿// HW1a Sales Total
 
 // Your Name:Celia Rael
-// Did you seek help ? If yes, specify the helper or web link here: 
+// Did you seek help ? If yes, specify the helper or web link here: Pooja Komusani, and other TAS at office hours 
 
 using System;
 using System.Collections.Generic;
